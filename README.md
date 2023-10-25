@@ -1,6 +1,6 @@
-![image](https://github.com/cardonandrew/cardonandrew/assets/109628960/172897d3-9abf-4c3b-b6d7-c0abe58fca8c)
 I'm Andrew Cardon 
 =====================================================================================================================================
+![image](https://github.com/cardonandrew/cardonandrew/assets/109628960/7c1c6060-5bb6-4ab2-9fb5-f3e5b9a658d2)
 
 Software Developer
 ------------------

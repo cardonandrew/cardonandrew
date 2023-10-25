@@ -7,7 +7,7 @@ Software Developer
 As a full-stack developer, I love diving into both the front-end and back-end of web applications. Whether it's crafting responsive user interfaces or architecting robust server-side solutions, I thrive on the challenge of building seamless and user-friendly software.
 
 * 🌍  I'm based in Santaquin, UT
-* [](https://giphy.com/gifs/lazy-corgi-1oBwBVLGoLteCP2kyD)  I'm continuing my learning with udemy.com
+* ![image](https://github.com/cardonandrew/cardonandrew/assets/109628960/55d746a1-8c02-4964-81e4-9bded3e9ddb0)I'm continuing my learning with udemy.com
 
 ### Skills
 

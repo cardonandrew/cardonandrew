@@ -20,8 +20,6 @@ As a full-stack developer, I love diving into both the front-end and back-end of
 
 ![image](https://github.com/cardonandrew/cardonandrew/assets/109628960/ef541ec9-eb20-4002-ae02-af8df7920711)
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/cardonandrew"><img src="https://github-readme-stats.vercel.app/api?username=cardonandrew&show_icons=true&hide=issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="cardonandrew's GitHub stats" /></a>

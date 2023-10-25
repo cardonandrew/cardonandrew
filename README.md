@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Cardon
+Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Cardon
 =====================================================================================================================================
 
 Software Developer
@@ -7,7 +7,7 @@ Software Developer
 As a full-stack developer, I love diving into both the front-end and back-end of web applications. Whether it's crafting responsive user interfaces or architecting robust server-side solutions, I thrive on the challenge of building seamless and user-friendly software.
 
 * 🌍  I'm based in Santaquin, UT
-* ![](https://giphy.com/gifs/lazy-corgi-1oBwBVLGoLteCP2kyD)  I'm continuing my learning with udemy.com
+* [](https://giphy.com/gifs/lazy-corgi-1oBwBVLGoLteCP2kyD)  I'm continuing my learning with udemy.com
 
 ### Skills
 

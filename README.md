@@ -5,7 +5,7 @@ Junior Software Developer
 
 As a full-stack developer, I love diving into both the front-end and back-end of web applications. Whether it's crafting responsive user interfaces or architecting robust server-side solutions, I thrive on the challenge of building seamless and user-friendly software.
 
-* 🌍  I'm based in Santaquin, UT
+* 🌍  Currently located in Utah, but hoping to relocate and adventure!
 * ⚡  I'm continuing my learning with udemy.com
 
 ### Skills
